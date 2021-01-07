@@ -1,0 +1,24 @@
+.first-person {
+	display: inline-block;
+	color: #fff;
+	height: 25px;
+	min-width: 20%;
+	max-width: 60%;
+	padding: 20px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 30px;
+}
+.chat-box-1 {
+	margin: auto;
+	padding: 2em;
+	height: 35em;
+	width: 95%;
+	border-radius: 20px;
+	overflow-y: scroll;
+	background-image: radial-gradient(
+		circle 644px at 2.8% 48.1%,
+		rgba(32, 82, 58, 1) 0%,
+		rgba(175, 217, 114, 0.86) 90%
+	);
+}

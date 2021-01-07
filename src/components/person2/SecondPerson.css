@@ -1,0 +1,27 @@
+.chat-box-2 {
+	margin: auto;
+	padding: 2em;
+	height: 35em;
+	width: 95%;
+	border-radius: 20px;
+	overflow-y: scroll;
+	background-image: linear-gradient(
+		102.3deg,
+		rgba(147, 39, 143, 1) 5.9%,
+		rgba(234, 172, 232, 1) 64%,
+		rgba(246, 219, 245, 1) 89%
+	);
+}
+.second-person {
+	display: inline-block;
+	color: #fff;
+	height: 25px;
+	min-width: 20%;
+	max-width: 60%;
+	padding: 20px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 30px;
+	background: #06c406;
+	/* float: right; */
+}
